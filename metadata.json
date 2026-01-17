@@ -1,0 +1,8 @@
+{
+  "name": "EarnPoint BD - Professional Income Platform",
+  "description": "A feature-rich income simulation and task management platform built for speed and aesthetics, featuring a Gemini-powered AI assistant to help users navigate their journey.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
